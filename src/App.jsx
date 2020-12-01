@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Greeting from './Component/Greeting';
+import style from './styles.css';
 
 const App = () => {
   const [name, setName] = useState();

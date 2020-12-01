@@ -1,0 +1,21 @@
+input::-webkit-input-placeholder {
+    color: red !important;
+    font-size: 30px;
+    }
+     
+    input:-moz-placeholder { /* Firefox 18- */
+    color: red !important;
+    font-size: 30px;  
+    }
+     
+    input::-moz-placeholder {  /* Firefox 19+ */
+    color: red !important;  
+    font-size: 30px;
+    }
+     
+    input:-ms-input-placeholder {  
+    color: red !important;  
+    font-size: 30px;
+    }
+
+    
